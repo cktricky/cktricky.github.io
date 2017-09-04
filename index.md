@@ -6,7 +6,7 @@ We just took a family walk not long ago and during that walk, I remembered a rec
 
 Several days ago, I tried an experiment with my 5 year old son related to emotional control. He was on his 3rd night in a row of sleep deprivation because he is a night owl and was/is adjusting to the new kindergarten schedule of early mornings. He is normally not one to have outbursts and is _usually_ a really incredibly rational kid - which, is why I even tried this with him and will warn you - **mileage may vary**.
 
-Unlike his normal self, he threw himself on the floor and began crying (no judgements, you should see how I look when run out of ice cream). Anyways, he was going and going and going. I'd heard once...
+Unlike his normal self, he threw himself on the floor and began crying (no judgements, you should see how I look when we run out of ice cream). Anyways, he was going and going and going. I'd heard once...
 
 > "When you're losing control of your emotions, try to picture what you look like to others."
 
