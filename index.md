@@ -12,7 +12,9 @@ Unlike his normal self, he threw himself on the floor and began crying (no judge
 
 While he was having his meltdown, I took my phone out, and shot a 1 minute long video of it (and no, I'm not posting it to the internet - can't give away all my good blackmail material). Immediately, **while still throwing a fit**, I played the video back. Instantly, he quieted down, made an audible "aaagggh" sound, wiped the tears from his eyes, walked over to me and began to watch the video. No more then a few seconds into it he began to laugh. He asked "is that me?". I replied, yes - isn't it funny? He laughed again and said "yes". I told him - doesn't this look ridiculous? He responded with another laugh and a "yes... RIDICULOUS!".
 
-Since then, no more outbursts, of course we have another week of school so we'll see how it goes. I'm sure he'll need another visual reminder but all-in-all... its a good lesson. If a 5 year old can stop what he's doing, in the middle of an emotional outburst, and naturally react by laughing at himself... can't we all take a cue and stop - maybe think more rationally about how we're behaving and emotionally detach for a moment?  
+Since then, no more outbursts, of course we have another week of school so we'll see how it goes. I'm sure he'll need another visual reminder but all-in-all... its a good lesson. If a 5 year old can stop what he's doing, in the middle of an emotional outburst, and naturally react by laughing at himself... can't we all take a cue and stop - maybe think more rationally about how we're behaving and emotionally detach for a moment?
+
+[Read More...](entries/2017/09-04-2017-emotional-control.md#emotional-control)
 
 #### September 4, 2017
 
