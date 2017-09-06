@@ -6,7 +6,7 @@ We just took a family walk not long ago and during that walk, I remembered a rec
 
 Several days ago, I tried an experiment with my 5 year old son related to emotional control. He was on his 3rd night in a row of sleep deprivation because he is a night owl and was/is adjusting to the new kindergarten schedule of early mornings. He is normally not one to have outbursts and is _usually_ a really incredibly rational kid - which, is why I even tried this with him and will warn you - **mileage may vary**.
 
-[Read More...](entries/2017/09-04-2017-emotional-control.md#emotional-control)
+[Read More...](entries/2017/09-04-2017-emotional-control.md)
 
 #### September 4, 2017
 
