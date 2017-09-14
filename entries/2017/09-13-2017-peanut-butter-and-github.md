@@ -14,10 +14,14 @@ I admit, my first reaction was "Why are they ostracizing my child for bringing a
 
 Again, I'd like to take a moment to point out or reiterate a couple things:
 
-*1 - I've already acknowledged we were being total assholes
-*2 - I'm not old, old. But I'm old enough for this to be a wtf for me upon initial reaction
-*3 - After contemplation, I realized, I'm in the wrong... BUT!
+* 1 - I've already acknowledged we were being total assholes
+* 2 - I'm not old, old. But I'm old enough for this to be a wtf for me upon initial reaction
+* 3 - After contemplation, I realized, I'm in the wrong... BUT..
 
 BUT, I still had a moment:
 
 ![](https://user-images.githubusercontent.com/544667/30409037-618c7cca-98b7-11e7-9b69-11d7a4b9d184.png)
+
+However, circling back to empathy... in the end, I realized the school was right. I can't just smoke anywhere I want because its harmful to other people (I don't smoke but that's not the point). The same rule should apply to toxic substances where children eat and frankly, it is a new world compared to the way I grew up. 
+
+Attitudes have changed, and I believe for the better. Taking other people into consideration **SHOULD** be something we are teaching our children from a young age. Not through simply fluffy talk but through our actions. So, this salty curmudgeon would like to formally announce - I was wrong in my initial reaction and glad my son is being raised with these values both at home **AND** at school. Society will only progress for the better when we teach ourselves from a young age to value other's needs over our own selfish desires (for a super fucking tasty sandwich, I might add - shoutout to my wife!).
