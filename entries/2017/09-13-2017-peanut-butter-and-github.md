@@ -18,4 +18,6 @@ Again, I'd like to take a moment to point out or reiterate a couple things:
 *2 - I'm not old, old. But I'm old enough for this to be a wtf for me upon initial reaction
 *3 - After contemplation, I realized, I'm in the wrong... BUT!
 
-BUT, for a moment I had 
+BUT, for a moment I had a
+
+
