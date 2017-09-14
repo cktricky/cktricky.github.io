@@ -1,3 +1,13 @@
+#### September 13, 2017
+
+# Peanut Butter and Github
+
+This week I started at GitHub working on the security team. As part of our indoctrination to GitHub, we learn about the company's core values - chief amongst them, is empathy. This kind of reminded me of a recent situation since they are tangentially related. 
+
+I had an interesting revelation and conversation recently. My son started Kindergarten a few weeks ago. We're learning the ropes as newcomers to the school system. During their indoctrination, the school reminded us that some children have peanut allergies and that, in order to make it a more inclusive environment, we should avoid packing items that contain nuts for our kid's lunch and snacks.
+
+[Read More...](entries/2017/09-13-2017-peanut-butter-and-github.md)
+
 #### September 4, 2017... later in the day
 
 # Emotional Control
