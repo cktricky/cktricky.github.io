@@ -1,6 +1,6 @@
 #### September 13, 2017
 
-# Peanut Butter and Github
+# Peanut Butter and GitHub
 
 This week I started at GitHub working on the security team. As part of our indoctrination to GitHub, we learn about the company's core values - chief amongst them, is empathy. This kind of reminded me of a recent situation since they are tangentially related. 
 
