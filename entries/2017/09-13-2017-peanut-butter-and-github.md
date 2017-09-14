@@ -18,6 +18,6 @@ Again, I'd like to take a moment to point out or reiterate a couple things:
 *2 - I'm not old, old. But I'm old enough for this to be a wtf for me upon initial reaction
 *3 - After contemplation, I realized, I'm in the wrong... BUT!
 
-BUT, for a moment I had a
+BUT, I still had a moment:
 
-
+![](https://user-images.githubusercontent.com/544667/30409037-618c7cca-98b7-11e7-9b69-11d7a4b9d184.png)
