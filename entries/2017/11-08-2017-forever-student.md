@@ -34,4 +34,6 @@ Doesn't matter *what* new **thing** you're learning, if you're going into that u
 
 I'm not an extrovert and, frankly, have a hard time with small talk. Plus, I like routine and enjoy my comfort zone like most people. However, forcing myself to do these things gets me side-by-side with people from all walks of life who share a common interest. I've traveled, met amazing people, and learned more about the world/people in general. 
 
-I could probably go on and on but won't and instead keep it simple. For the reasons above and many not listed, I'll remain a "forever student". Stay hungry, stay humble. 
+## Summary
+
+I could probably go on and on but won't and instead keep it simple. For the reasons above as well as many not listed, I'll remain a "forever student". Stay hungry, stay humble. 
