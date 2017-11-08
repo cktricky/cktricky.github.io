@@ -1,3 +1,15 @@
+#### November 8, 2017
+
+# Forever Student
+
+So over the past couple of months, I've spent a fair amount of time learning **things**. New-to-me languages, re-visting my attacker stomping ground or 
+"roots" (methodologies and toolsets), as well as new defenses mechanisms being considered for web standards. Outside of technology, I've tackled new physical challenges both in the gym, diet, and learning a new form of martial arts. 
+*...and no, I'm not going to talk a lot about that because I can't stand the "crossfit" or "paleo diet" effect - you know - that time someone did it and then it became their whole identity?* Newp newp newp.
+
+But, I really think it is important to stay a "forever student" for several reasons:
+
+[Read More...](entries/2017/11-08-2017-forever-student.md)
+
 #### September 13, 2017
 
 # Peanut Butter and GitHub
