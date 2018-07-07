@@ -14,6 +14,7 @@ This isn't super revolutionary and I believe is fairly well known. What can I do
 * Started a podcast and completed roughly 22 episodes of that podcast (and still going)
 * Submitted for & Accepted to - trainer at OWASP AppSec USA
 * Completed my first 10 months at a new job
+* Began and continuing Keto diet/lifestyle
 
 
 
