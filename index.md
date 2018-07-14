@@ -1,3 +1,15 @@
+#### July 7, 2018
+
+# Comfortably Uncomfortable
+
+Whew, it has been a crazy year. I've not written nearly as often in this journal as I'd originally hoped for but I think that maybe this is a good thing since the root cause is kind of the topic of this post. I've been busy doing things. Things that are completely out of my comfort zone. Things that make me travel (not a big fan of travel). Things that make me sweat. Things that make me nervous.
+
+At this point, I'd like to share a ~little~ big life lesson that I've learned along the way in my journey. It's good to be uncomfortable. In fact, it's the only way I've found that I can lead a fulfilling life.
+
+This isn't a super revolutionary concept and is in fact, pretty well known. For me, I wanted to list/share how this has helped me for personal growth and fulfillment. Now let's list this year in a nutshell:
+
+[Read More...](entries/2018/07-07-2018-comfortably-uncomfortable.md)
+
 #### November 8, 2017
 
 # Forever Student
