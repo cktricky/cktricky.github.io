@@ -27,10 +27,10 @@ To do a podcast means you need to have a semi-regular schedule, be somewhat orga
 
 * Submitted for & Accepted to - trainer at OWASP AppSec USA
 
+We've not yet given this training so its not necessarily about the training itself. But, because we were accepted to give this training - another opportunity came along after the training was publicized. So we'll be giving the training (and attending) AppSec Day in Australia which - I'm super excited about. That will be another adventure that wouldn't have come about if Seth and I decided to put in the effort to build a solid trainig course. The thing to remember about that is - we totally didn't have to. It's not a lot of money, it's not like our careers are going to get some signficant boost, we could have been content and not have done this work. But because we did we have another opportunity to meet new people, share experiences, and share our techniques with other people.
 
+So there have been other changes like my lifestyle/eating habits and leaving a job that was making me unhappy to join a job I love (GitHub) and those things have have major, MAJOR impact for the better on my life but probably deserve their own blog posts. Point being - a lot of what I've done over the last year is scary stuff. And I'm so much more fucking happy than ever because of it. Try it. Seriously, pick something you've put off or are afraid to do and get after it. ❤️
 
-* Completed my first 10 months at a new job
-* Began and continuing Keto diet/lifestyle
 
 
 
