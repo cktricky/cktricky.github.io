@@ -1,6 +1,6 @@
 {% for repository in site.github.public_repositories %}
   {% if repository.name contains "owasp" %}
-  * [{{ repository.name }}]({{ repository.html_url }})
+  * [{{ repository.name }}]({{ repository.pages_hostname }})
   {% endif %}
 {% endfor %}
 
