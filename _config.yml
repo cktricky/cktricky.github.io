@@ -1,3 +1,7 @@
 theme: jekyll-theme-minimal
 title: Ken Johnson / cktricky
 description: Just another weirdo. Refuses to keep the <s>peace</s> pace.
+
+{% for repository in site.github.public_repositories %}
+  * [{{ repository.name }}]({{ repository.html_url }})
+{% endfor %}
