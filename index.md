@@ -1,3 +1,7 @@
+{% for repository in site.github.public_repositories %}
+  * [{{ repository.name }}]({{ repository.html_url }})
+{% endfor %}
+
 #### July 7, 2018
 
 # Comfortably Uncomfortable
