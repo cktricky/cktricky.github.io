@@ -1,9 +1,3 @@
-{% for repository in site.github.public_repositories %}
-  {% if repository.name contains "owasp" %}
-  * [{{ repository.name }}](https://cktricky.com/{{ repository.name }})
-  {% endif %}
-{% endfor %}
-
 #### July 7, 2018
 
 # Comfortably Uncomfortable
